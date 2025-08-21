@@ -1,0 +1,46 @@
+# Generated output directories
+detection_outputs/
+simple_detection_outputs/
+
+# Session data files
+session_*.json
+detection_session.json
+
+# Screenshot files
+detection_*.jpg
+simple_detection_*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Log files
+*.log
